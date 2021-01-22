@@ -8,6 +8,7 @@
 4. Answer Shown When requested.
 5. Ability to self grade your own answer
 6. Sort cards by answer ranking ascending
+
    Bad Answer => Rank = 0
    Good Answer => Rank = Rank + 1
    Great Great => Rank = Rank + 2
