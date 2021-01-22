@@ -1,7 +1,7 @@
 {
-  "name": "tipcalculator",
+  "name": "fleshcardstudy",
   "version": "1.0.0",
-  "description": "Tip Calculator",
+  "description": "Flesh Card Study",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open"
